@@ -1,7 +1,7 @@
 # First Flutter & Dart Course Assignment 'Mad Men Quotes'
 
 First assignment for Flutter & Dart development course.
-**Link:** (https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/).
+**Link:** https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/.
 
 ## Brief Description
 
@@ -13,6 +13,10 @@ The assignment was for training basic Flutter and Dart syntax and rules. Directi
 My app outputs random Mad Men Quote after clicking a button. You can also restart the app when you
 run out of quotes. Even though it wasn't necessary I chose to add some 'extras' such as Google's
 RobotMono font, background color, etc just for fun and training.
+
+
+![](lib/Screenshot1.PNG)
+![](lib/Screenshot2.PNG)
 
 ## Issues and further development
 
