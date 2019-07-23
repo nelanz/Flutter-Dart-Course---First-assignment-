@@ -1,16 +1,24 @@
-# first_assignment
+# First Flutter & Dart Course Assignment 'Mad Men Quotes'
 
-A new Flutter application.
+First assignment for Flutter & Dart development course.
+**Link:** (https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/).
 
-## Getting Started
+## Brief Description
 
-This project is a starting point for a Flutter application.
+The assignment was for training basic Flutter and Dart syntax and rules. Directions were simple:
+1. Create a new Flutter App (in this project) and output an AppBar and some text below it.
+2. Add a button which changes the text (to any other text of your choice).
+3. Split the app into three widgets: App, TextControl & Text
 
-A few resources to get you started if this is your first Flutter project:
+My app outputs random Mad Men Quote after clicking a button. You can also restart the app when you
+run out of quotes. Even though it wasn't necessary I chose to add some 'extras' such as Google's
+RobotMono font, background color, etc just for fun and training.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Issues and further development
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+* Once a quote appears, it can appear again - need to fix that.
+* Quotes should be centered - it is not for now.
+
+
+
+
