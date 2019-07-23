@@ -14,8 +14,10 @@ My app outputs random Mad Men Quote after clicking a button. You can also restar
 run out of quotes. Even though it wasn't necessary I chose to add some 'extras' such as Google's
 RobotMono font, background color, etc just for fun and training.
 
-<img src="lib/Screenshot1.PNG" width = "300"/>
-<img src="lib/Screenshot2.PNG" width = "300"/>
+<p float="left"></p>
+    <img src="lib/Screenshot1.PNG" width = "250"/> 
+    <img src="lib/Screenshot2.PNG" width = "250"/>
+</p>
 
 ## Issues and further development
 
