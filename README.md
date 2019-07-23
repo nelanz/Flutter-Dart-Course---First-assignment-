@@ -15,8 +15,8 @@ run out of quotes. Even though it wasn't necessary I chose to add some 'extras' 
 RobotMono font, background color, etc just for fun and training.
 
 <p float="left">
-    <img src="lib/Screenshot1.PNG" width = "250"/> 
-    <img src="lib/Screenshot2.PNG" width = "250"/>
+    <img src="lib/Screenshot1.PNG" width = "400"/> 
+    <img src="lib/Screenshot2.PNG" width = "400"/>
 </p>
 
 ## Issues and further development
