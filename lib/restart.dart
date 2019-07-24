@@ -7,20 +7,21 @@ class Restart extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Column(
-      children: <Widget>[
-        Center(
-          child: FlatButton(
-            child: Text(
-              'Click to go once again!',
-              style: TextStyle(fontSize: 26, fontFamily: 'RobotoMono'),
-              textAlign: TextAlign.center,
+    return Center(
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: <Widget>[
+            FlatButton(
+              child: Text(
+                'Click to go once again!',
+                style: TextStyle(fontSize: 26, fontFamily: 'RobotoMono'),
+                textAlign: TextAlign.center,
+              ),
+              textColor: Colors.red[900],
+              onPressed: restartHandler,
             ),
-            textColor: Colors.red[900],
-            onPressed: restartHandler,
-          ),
+          ],
         )
-      ],
-    );
+      );
   }
 }

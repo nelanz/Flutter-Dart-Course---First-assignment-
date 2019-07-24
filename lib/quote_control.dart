@@ -11,7 +11,7 @@ class QuoteControl extends StatelessWidget {
       child: RaisedButton(
         child: Text(
           'Press me!',
-          style: TextStyle(color: Colors.red[900], fontFamily: 'RobotoMono'),
+          style: TextStyle(color: Colors.red[900], fontFamily: 'RobotoMono', fontSize: 16),
         ),
         onPressed: nextQuote,
       ),
